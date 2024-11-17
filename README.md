@@ -6,4 +6,4 @@ The project is done on PlatformIO in VSCode.
 
 It's use an Arduino Uno R4 Wifi, some IR Receiver, 2 IR remote and a LCD crystal display.
 
-You can explore more of this project using this [HacksterIO link]()
+You can explore more of this project using this [HacksterIO link](https://www.hackster.io/525546/guess-the-number-c8e1ec)
